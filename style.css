@@ -1,0 +1,206 @@
+.
+{
+    margin: 0px;
+    padding: 0px;
+    outline: none;
+}
+body{
+    background-color: #fff;
+    font-family: 'Open Sans';
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 26px;
+    font-style: normal;
+    color: black;
+}
+.header{
+    background-color: #fff;
+}
+.container{
+    margin: 0,0,160px,0;
+    width: 1170px;
+    display: flex;
+    
+}
+.nav{
+    padding: 29px;
+    margin: 0,0,40px,0;
+    display: flex;
+    justify-content: right;
+    
+}
+.menu-list{
+    list-style: none;
+    display: flex;
+    
+
+}
+.menu-item{
+
+}
+.munu-list-item a{
+    color: black;
+    line-height: 22px;
+    Font size: 14px
+    Line height: 100%
+    display: flex: ;
+    justify-content: :right
+    
+
+}
+.logo{
+    height: 100%;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 27px;
+    font-family: open sans, sans-serif;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    padding: 0 10px;
+    
+
+}
+.text-logo{
+    Font size: 24px
+    line-height: 100%
+    
+
+}
+.header-link{
+    padding: 40px;
+    display: block;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    color: black;
+    text-decoration: none;
+}
+.header-link :hover{
+    background-color: cadetblue;
+    border-radius: 5px;
+}
+.flex-box{
+    display: flex;
+}
+.main-txt{
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 160%;
+    font-family: 'Open Sans';
+    text-transform: uppercase;
+    color: darkgreen;
+    max-width: 525px;
+    width: 100%;
+    max-height: 425px;
+}
+.main-headding{
+    margin: 0,0,10px,0;
+    font-weight: 800;
+    font-size: 60px;
+    line-height: 100%;
+    color: black;
+    font-family: open sans, sans-serif;
+}
+.main-dsc{
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 100%;
+    color: black;
+    margin-top: 48px;
+    width: 558px;
+    margin-bottom: 50px;
+    font-family: open sans, sans-serif;
+    max-width: 466px;
+    width: 100%;
+}
+.meta{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 72px;
+}
+.get{
+    display: block;
+    background-color: #F25822; 
+    border: none;
+    border-radius: 50px;
+    margin-right: 20px;
+    max-width: 140px;
+
+}
+.button-txt{
+    height: 100%;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 100%;
+    font-family: open sans, sans-serif;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    padding: 17px, 35px;
+}
+.button-text-flex{
+    height: 100%;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 100%;
+    font-family: open sans, sans-serif;
+    color: #AAAA;
+    display: flex;
+    align-items: center;
+    padding: 0 10px;
+    max-width: 90px;
+    
+
+}
+.watch{
+       
+      
+}
+.main-pic{
+    width: 610px;
+    height: 373px;
+
+}
+.pngfind 1.jpg
+{
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+.watch-text{
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 27px;
+    font-family: open sans, sans-serif;
+    color: #fff;
+    margin-left: 10px;
+}
+.button-flex{
+    display: flex;
+}
+.get:hover{
+color: #F25822;
+background-color: aqua;
+}
+
+.watch:hover{
+    color: brown;
+    background-color: chartreuse;
+}
+
+.top-logos{
+    margin: 10px,0;
+       
+    }
+
+
+
+.top-logos-list{
+    list-style: none;
+    display: flex;
+    gap: 48px;
+}
